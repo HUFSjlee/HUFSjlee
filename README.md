@@ -1,5 +1,6 @@
 # Steady growth!
-
+### Welcome my space!  
+I am Lee Seungjae Lee who wants to become a steady developer.
 ### :school: Education
 * 한국외국어대학교 정보통신공학과
   
