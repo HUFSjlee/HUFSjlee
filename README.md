@@ -1,14 +1,14 @@
 # Steady growth!
 ### Hi there! Welcome my space.  
 I am Lee Seungjae Lee who wants to become a steady developer.
-### Education :school:
+### :school: Education
 * Hankuk University of Foreign Studies, Department of Information Communications Engineering
 * CityLabs, Winter season Intern (2021.01 ~ 2021.03)
   
-### Connect with me :loudspeaker: 
+### :loudspeaker: Connect with me 
 - deepsj1012@naver.com
 
-### Technology stack :computer:
+### :computer: Technology stack
 <div align="left">
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />  
