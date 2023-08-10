@@ -2,7 +2,7 @@
 ### Hi there! Welcome my space.  
 I am Lee Seungjae Lee who wants to become a steady developer.
 ### :school: Education
-* Hankuk University of Foreign Studies, Department of Information Communications Engineering
+* Hankuk University of Foreign Studies, Department of Information Communications Engineering (Graduation Date 2022.08)
 * CityLabs, Winter season Intern (2021.01 ~ 2021.03)
   
 ### :loudspeaker: Connect with me 
