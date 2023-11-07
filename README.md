@@ -8,6 +8,9 @@ I am Lee Seungjae who wants to become a steady developer.
 ### :loudspeaker: Connect with me 
 - deepsj1012@naver.com
 
+### :crystal_ball: BLOG
+- https://hufsjlee.github.io/
+
 ### :computer: Technology stack
 <div align="left">
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
